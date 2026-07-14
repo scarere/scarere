@@ -6,7 +6,7 @@
 > [!NOTE]
 > Most of my recent engineering work lives in private enterprise GitHub repositories, so my public contribution graph doesn't always reflect my actual day-to-day activity. The repositories here showcase some of the work I'm able to share. For a more up-to-date overview of my experience, check out my [LinkedIn](https://www.linkedin.com/in/shawncarere/).
 
-I'm a Machine Learning Engineer with experience spanning fundamental AI research, production ML systems, optimization, and ML infrastructure. I enjoy bridging research and engineering to help move ideas from experimentation into reliable, scalable products.
+I'm an MLE with experience ranging from fundamental AI research all the way to productionization, optimization and ML infrastructure. I like to leverage my experience to bridge the two ends of that spectrum to help accelerate AI research and feature deployment.
 
 <!--
 **scarere/scarere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
