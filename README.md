@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Shawn 👋
+
+> [!IMPORTANT]
+> This README was actually written by me, a human.
+
+> [!NOTE]
+> Most of my recent engineering work lives in private enterprise GitHub repositories, so my public contribution graph doesn't always reflect my actual day-to-day activity. The repositories here showcase some of the work I'm able to share. For a more up-to-date overview of my experience, check out my [LinkedIn](https://www.linkedin.com/in/shawncarere/).
+
+I'm a Machine Learning Engineer with experience spanning fundamental AI research, production ML systems, optimization, and ML infrastructure. I enjoy bridging research and engineering to help move ideas from experimentation into reliable, scalable products.
 
 <!--
 **scarere/scarere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
